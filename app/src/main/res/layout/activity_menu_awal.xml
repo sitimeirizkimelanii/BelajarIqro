@@ -10,7 +10,7 @@
     tools:context="id.sch.smktelkom_mlg.project.xiirpl304142434.belajariqro.menu_awal"
     android:weightSum="1"
     android:backgroundTintMode="screen"
-    android:background="@drawable/Picture8"
+    android:background="@drawable/bc"
     android:gravity="center_vertical|bottom">
     <ImageButton
         android:layout_width="300dp"
