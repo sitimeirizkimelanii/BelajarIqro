@@ -23,12 +23,11 @@
         android:layout_marginBottom="52dp" />
 
     <ImageView
-        android:layout_width="250dp"
+        android:layout_width="300dp"
         android:layout_height="250dp"
         android:id="@+id/imageView"
-        android:background="@drawable/i"
+        android:background="@drawable/q"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="36dp" />
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
