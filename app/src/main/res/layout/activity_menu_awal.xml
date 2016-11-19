@@ -43,8 +43,8 @@
         android:layout_width="300dp"
         android:layout_height="80dp"
         android:id="@+id/imageButton"
+        android:background="@drawable/belajar_iqro"
         android:layout_above="@+id/b_iqro"
-        android:layout_alignLeft="@+id/b_iqro"
-        android:layout_alignStart="@+id/b_iqro"
-        android:background="@drawable/Picture" />
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
