@@ -252,7 +252,7 @@
         android:layout_alignBottom="@+id/imageButton27"
         android:layout_toLeftOf="@+id/imageButton17"
         android:layout_toStartOf="@+id/imageButton17"
-        android:src="p" />
+         />
 
     <ImageButton
         android:layout_width="wrap_content"
