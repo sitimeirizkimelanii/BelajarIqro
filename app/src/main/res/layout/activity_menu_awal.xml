@@ -26,7 +26,7 @@
         android:layout_height="80dp"
         android:id="@+id/game"
         android:background="@drawable/game"
-        android:layout_above="@+id/b_iqro"
+        android:layout_alignTop="@+id/b_iqro"
         android:layout_centerHorizontal="true" />
 
 
@@ -38,4 +38,13 @@
         android:layout_marginBottom="106dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageButton"
+        android:layout_above="@+id/b_iqro"
+        android:layout_alignLeft="@+id/b_iqro"
+        android:layout_alignStart="@+id/b_iqro"
+        android:background="@drawable/Picture" />
 </RelativeLayout>
