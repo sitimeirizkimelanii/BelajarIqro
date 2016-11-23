@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bingkai_kuis"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="id.sch.smktelkom_mlg.project.xiirpl304142434.belajariqro.MenuQuizActivity">
+
+    <Button
+        android:id="@+id/buttonQuiz1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="115dp"
+        android:text="Quiz 1 " />
+
+    <Button
+        android:id="@+id/buttonQuiz2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/buttonQuiz1"
+        android:layout_alignStart="@+id/buttonQuiz1"
+        android:layout_below="@+id/buttonQuiz1"
+        android:text="Quiz 2" />
+
+    <Button
+        android:id="@+id/buttonQuiz3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/buttonQuiz2"
+        android:layout_alignStart="@+id/buttonQuiz2"
+        android:layout_centerVertical="true"
+        android:text="Quiz 3" />
+
+    <Button
+        android:id="@+id/buttonQuiz4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/buttonQuiz3"
+        android:layout_alignStart="@+id/buttonQuiz3"
+        android:layout_below="@+id/buttonQuiz3"
+        android:text="Quiz 4" />
+</RelativeLayout>
