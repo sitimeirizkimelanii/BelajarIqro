@@ -21,5 +21,16 @@ public class menu_awal extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
+
+
+        ImageButton jusamma = (ImageButton) findViewById(R.id.j_amma);
+        jusamma.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), jussamamain_Activity.class);
+                startActivity(i);
+            }
+        });
     }
 }

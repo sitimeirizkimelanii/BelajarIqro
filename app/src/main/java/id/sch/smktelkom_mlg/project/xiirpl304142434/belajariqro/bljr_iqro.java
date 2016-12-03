@@ -49,7 +49,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play4 = MediaPlayer.create(this, R.raw.tha);
+        //play4 = MediaPlayer.create(this, R.raw.tha);
         findViewById(R.id.imageButton5).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -72,7 +72,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play6 = MediaPlayer.create(this, R.raw.hak);
+       // play6 = MediaPlayer.create(this, R.raw.hak);
         findViewById(R.id.imageButton7).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -83,7 +83,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play7 = MediaPlayer.create(this, R.raw.kha);
+       // play7 = MediaPlayer.create(this, R.raw.kha);
         findViewById(R.id.imageButton8).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -94,7 +94,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play8 = MediaPlayer.create(this, R.raw.dal);
+       // play8 = MediaPlayer.create(this, R.raw.dal);
         findViewById(R.id.imageButton9).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -105,7 +105,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play9 = MediaPlayer.create(this, R.raw.thal);
+        //play9 = MediaPlayer.create(this, R.raw.thal);
         findViewById(R.id.imageButton10).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -127,7 +127,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play11 = MediaPlayer.create(this, R.raw.zain);
+       // play11 = MediaPlayer.create(this, R.raw.zain);
         findViewById(R.id.imageButton12).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -138,7 +138,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play12 = MediaPlayer.create(this, R.raw.seen);
+      //  play12 = MediaPlayer.create(this, R.raw.seen);
         findViewById(R.id.imageButton13).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -149,7 +149,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play13 = MediaPlayer.create(this, R.raw.sheen);
+     //   play13 = MediaPlayer.create(this, R.raw.sheen);
         findViewById(R.id.imageButton14).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -160,7 +160,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play14 = MediaPlayer.create(this, R.raw.sad);
+        //play14 = MediaPlayer.create(this, R.raw.sad);
         findViewById(R.id.imageButton15).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -171,7 +171,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play15 = MediaPlayer.create(this, R.raw.dh);
+        //play15 = MediaPlayer.create(this, R.raw.dh);
         findViewById(R.id.imageButton16).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -182,7 +182,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play16 = MediaPlayer.create(this, R.raw.tak);
+       // play16 = MediaPlayer.create(this, R.raw.tak);
         findViewById(R.id.imageButton17).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -193,7 +193,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play17 = MediaPlayer.create(this, R.raw.za);
+       // play17 = MediaPlayer.create(this, R.raw.za);
         findViewById(R.id.imageButton18).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -204,7 +204,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play18 = MediaPlayer.create(this, R.raw.ainn);
+        //play18 = MediaPlayer.create(this, R.raw.ainn);
         findViewById(R.id.imageButton19).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -215,7 +215,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play19 = MediaPlayer.create(this, R.raw.ghainn);
+       // play19 = MediaPlayer.create(this, R.raw.ghainn);
         findViewById(R.id.imageButton20).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -226,7 +226,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play20 = MediaPlayer.create(this, R.raw.fa);
+       // play20 = MediaPlayer.create(this, R.raw.fa);
         findViewById(R.id.imageButton21).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -237,7 +237,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play21 = MediaPlayer.create(this, R.raw.qaf);
+       // play21 = MediaPlayer.create(this, R.raw.qaf);
         findViewById(R.id.imageButton22).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -303,7 +303,7 @@ public class bljr_iqro extends AppCompatActivity {
             }
         });
 
-        play27 = MediaPlayer.create(this, R.raw.ha);
+        //play27 = MediaPlayer.create(this, R.raw.ha);
         findViewById(R.id.imageButton28).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
