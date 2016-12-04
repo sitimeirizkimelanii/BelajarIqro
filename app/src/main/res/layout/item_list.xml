@@ -30,7 +30,7 @@
         android:ellipsize="end"
         tools:text="judul"
         android:id="@+id/textViewJudul"
-        android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
         android:textColor="@color/colorPrimaryDark" />
 
     <TextView
